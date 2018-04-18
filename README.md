@@ -1,29 +1,12 @@
-# CTtask
-Junior test task
 
-1.       Following good development practices, write a program which can be called from
-         the command line and has this functionality:
+## README
 
- 
+#The description of the tasks is displayed in the file: "CTtask.md"
 
--          Connects to this URL (https://jsonplaceholder.typicode.com/users) to fetch and parse JSon data.
+#Answers are displayed in the file: AnswersForQuestions
 
--          Counts users by their email domain (i.e. .net, .org. com, etc.)
+#The program is contained in the directory: ProgramSolution
 
--          Prints out top 10 results in format “domain - count”
-
- 
-
-2.       Also please share your thoughts on following, (there is no unique right answer):
-
- 
-
--          Which functional / non-functional flaws can you identify from this specification?
-
--          Considering the whole system, which failure points can you identify?
-
--          How would you notify the user if there are issues with execution of the application?
-
--          How would you measure performance of this application?
-
--          How would you stress-test this application?
+## Description and Starting the program
+*Program is Console App written in C# using .NET framework,Visual Studio 2017 and additional framework package Newtonsoft.Json
+*Running program with: Visual Studio or CLI ("CTfun.exe" file in Debug subfolder)

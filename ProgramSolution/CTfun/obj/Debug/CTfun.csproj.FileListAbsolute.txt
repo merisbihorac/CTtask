@@ -1,0 +1,10 @@
+C:\Users\meris\source\repos\CTfun\CTfun\bin\Debug\CTfun.exe.config
+C:\Users\meris\source\repos\CTfun\CTfun\bin\Debug\CTfun.exe
+C:\Users\meris\source\repos\CTfun\CTfun\bin\Debug\CTfun.pdb
+C:\Users\meris\source\repos\CTfun\CTfun\obj\Debug\CTfun.csprojResolveAssemblyReference.cache
+C:\Users\meris\source\repos\CTfun\CTfun\obj\Debug\CTfun.csproj.CoreCompileInputs.cache
+C:\Users\meris\source\repos\CTfun\CTfun\obj\Debug\CTfun.exe
+C:\Users\meris\source\repos\CTfun\CTfun\obj\Debug\CTfun.pdb
+C:\Users\meris\source\repos\CTfun\CTfun\bin\Debug\Newtonsoft.Json.dll
+C:\Users\meris\source\repos\CTfun\CTfun\bin\Debug\Newtonsoft.Json.xml
+C:\Users\meris\source\repos\CTfun\CTfun\obj\Debug\CTfun.csproj.CopyComplete

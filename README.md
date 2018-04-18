@@ -1,7 +1,8 @@
 # CTtask
 Junior test task
 
-1.       Following good development practices, write a program which can be called from the command line and has this functionality:
+1.       Following good development practices, write a program which can be called from
+         the command line and has this functionality:
 
  
 
